@@ -4,3 +4,5 @@ Deleted 2nd part of 2nd line. Want to see if all these changes can be seen in on
 
 I see that changes can be seen in one file wihtout having it to be merged. Let's see what 
 happens after I create pull request and merge the file to master. 
+
+Want to create pull request from command line.
