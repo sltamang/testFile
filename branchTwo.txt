@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+This is the text for second branch. 
+
+It should be the third commit in second bRANCH.
+=======
+This is the text for second branch. Add comments from github.
+>>>>>>> ce071b2cd7ed0c2fdfaff26f81ea6757efa89059
